@@ -1,16 +1,15 @@
-last_updated: '2026_07_20_22_58_27'
+last_updated: '2026_07_20_22_58_42'
 server: GlowMC
 total_decisions: 1
 decisions:
-- violation_id: viol_realtime_1784563107938_db5b30be
+- violation_id: viol_realtime_1784563122837_04eb97f7
   tier: realtime
-  player: long36
-  uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
-  message: nos thuwer maf
-  time: 1784563107938
-  offended_text: nos thuwer maf
-  reason: Chửi bậy
-  precision: 0.95
+  player: .Duyredmi
+  uuid: 00000000-0000-0000-0009-01ff86779155
+  message: ''
+  time: 1784563122837
+  offended_text: ''
+  reason: Từ ngữ chửi bậy
+  precision: 0.5
   threshold_used: 0.85
-  action: tempmute
-  mute_duration: 5m
+  action: ignored
