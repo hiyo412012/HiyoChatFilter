@@ -1,6 +1,6 @@
-last_updated: '2026_07_20_23_06_27'
+last_updated: '2026_07_20_23_25_17'
 server: GlowMC
-total_decisions: 2
+total_decisions: 4
 decisions:
 - violation_id: manual_1784563303279_c63dd570
   tier: manual
@@ -26,3 +26,31 @@ decisions:
   precision: 0.5
   threshold_used: 0.85
   action: ignored
+- violation_id: viol_realtime_1784564717814_65dac89a
+  tier: realtime
+  player: Hiyo41
+  uuid: 78fe08ff-e160-34e3-bba2-05dcd23d9246
+  message: fuck
+  time: 1784564717813
+  offended_text: fuck
+  reason: Từ chửi
+  precision: 1.0
+  threshold_used: 0.85
+  action: extended
+  mute_duration: 43m
+  additional_duration: 35m
+  remaining_before_extension_ms: 504938
+- violation_id: viol_realtime_1784564717818_72eea465
+  tier: realtime
+  player: Hiyo41
+  uuid: 78fe08ff-e160-34e3-bba2-05dcd23d9246
+  message: fuck
+  time: 1784564717813
+  offended_text: fuck
+  reason: Từ chửi
+  precision: 1.0
+  threshold_used: 0.85
+  action: extended
+  mute_duration: 1h23m
+  additional_duration: 40m
+  remaining_before_extension_ms: 2604938
