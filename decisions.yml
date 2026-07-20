@@ -1,18 +1,17 @@
-last_updated: '2026_07_20_23_01_12'
+last_updated: '2026_07_20_23_01_14'
 server: GlowMC
 total_decisions: 1
 decisions:
-- violation_id: viol_realtime_1784563272701_ca0c6a81
-  tier: realtime
+- violation_id: manual_1784563274047_5e3ab920
+  tier: manual
   player: long36
   uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
-  message: m
-  time: 1784563272701
-  offended_text: m
-  reason: ''
+  message: ''
+  time: 1784563274047
+  offended_text: ''
+  reason: '[HiyoFilter] (extended)'
   precision: 1.0
-  threshold_used: 0.85
-  action: extended
-  mute_duration: 47m
-  additional_duration: 20m
-  remaining_before_extension_ms: 1635237
+  threshold_used: 1.0
+  action: tempmute
+  mute_duration: 47 phút
+  executor: Console
