@@ -1,6 +1,6 @@
-last_updated: '2026_07_20_23_25_17'
+last_updated: '2026_07_20_23_27_47'
 server: GlowMC
-total_decisions: 4
+total_decisions: 3
 decisions:
 - violation_id: manual_1784563303279_c63dd570
   tier: manual
@@ -26,31 +26,17 @@ decisions:
   precision: 0.5
   threshold_used: 0.85
   action: ignored
-- violation_id: viol_realtime_1784564717814_65dac89a
+- violation_id: viol_realtime_1784564867725_90349412
   tier: realtime
-  player: Hiyo41
-  uuid: 78fe08ff-e160-34e3-bba2-05dcd23d9246
-  message: fuck
-  time: 1784564717813
-  offended_text: fuck
-  reason: Từ chửi
+  player: long36
+  uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
+  message: ''
+  time: 1784564867725
+  offended_text: ''
+  reason: Chứa các ký tự không hợp lệ
   precision: 1.0
   threshold_used: 0.85
   action: extended
-  mute_duration: 43m
-  additional_duration: 35m
-  remaining_before_extension_ms: 504938
-- violation_id: viol_realtime_1784564717818_72eea465
-  tier: realtime
-  player: Hiyo41
-  uuid: 78fe08ff-e160-34e3-bba2-05dcd23d9246
-  message: fuck
-  time: 1784564717813
-  offended_text: fuck
-  reason: Từ chửi
-  precision: 1.0
-  threshold_used: 0.85
-  action: extended
-  mute_duration: 1h23m
-  additional_duration: 40m
-  remaining_before_extension_ms: 2604938
+  mute_duration: 45m
+  additional_duration: 25m
+  remaining_before_extension_ms: 1240213
