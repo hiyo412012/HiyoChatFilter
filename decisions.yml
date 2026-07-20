@@ -1,4 +1,4 @@
-last_updated: '2026_07_20_23_27_47'
+last_updated: '2026_07_20_23_28_02'
 server: GlowMC
 total_decisions: 3
 decisions:
@@ -26,17 +26,15 @@ decisions:
   precision: 0.5
   threshold_used: 0.85
   action: ignored
-- violation_id: viol_realtime_1784564867725_90349412
+- violation_id: viol_realtime_1784564882748_5970341a
   tier: realtime
-  player: long36
-  uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
-  message: ''
-  time: 1784564867725
-  offended_text: ''
-  reason: Chứa các ký tự không hợp lệ
+  player: .Duyredmi
+  uuid: 00000000-0000-0000-0009-01ff86779155
+  message: th t đj
+  time: 1784564882748
+  offended_text: th t đj
+  reason: Viết tắt chửi bới
   precision: 1.0
   threshold_used: 0.85
-  action: extended
-  mute_duration: 45m
-  additional_duration: 25m
-  remaining_before_extension_ms: 1240213
+  action: tempmute
+  mute_duration: 20m
