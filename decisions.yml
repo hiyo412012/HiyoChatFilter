@@ -1,6 +1,6 @@
-last_updated: '2026_07_20_23_01_43'
+last_updated: '2026_07_20_23_03_42'
 server: GlowMC
-total_decisions: 1
+total_decisions: 2
 decisions:
 - violation_id: manual_1784563303279_c63dd570
   tier: manual
@@ -15,3 +15,15 @@ decisions:
   action: tempmute
   mute_duration: 10 phút
   executor: Console
+- violation_id: viol_realtime_1784563422752_83ce0fe4
+  tier: realtime
+  player: Hiyo41
+  uuid: 78fe08ff-e160-34e3-bba2-05dcd23d9246
+  message: ''
+  time: 1784563422751
+  offended_text: ''
+  reason: Chửi thề
+  precision: 1.0
+  threshold_used: 0.85
+  action: tempmute
+  mute_duration: 30m
