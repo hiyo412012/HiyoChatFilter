@@ -1,4 +1,28 @@
-last_updated: '2025-07-20 00:00:00'
+last_updated: '2026_07_20_22_57_57'
 server: GlowMC
-total_decisions: 0
-decisions: []
+total_decisions: 2
+decisions:
+- violation_id: viol_realtime_1784563077790_2b059502
+  tier: realtime
+  player: .miladom
+  uuid: 00000000-0000-0000-0009-01fa7bd29413
+  message: ad
+  time: 1784563077789
+  offended_text: ad
+  reason: Chửi người khác trực tiếp
+  precision: 0.85
+  threshold_used: 0.85
+  action: tempmute
+  mute_duration: 5m
+- violation_id: viol_realtime_1784563078138_2fe26b86
+  tier: realtime
+  player: .miladom
+  uuid: 00000000-0000-0000-0009-01fa7bd29413
+  message: moẹ
+  time: 1784563077789
+  offended_text: moẹ
+  reason: Chửi bậy
+  precision: 0.9
+  threshold_used: 0.85
+  action: tempmute
+  mute_duration: 10m
