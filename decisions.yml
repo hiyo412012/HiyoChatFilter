@@ -1,4 +1,4 @@
-last_updated: '2026_07_20_23_03_42'
+last_updated: '2026_07_20_23_06_27'
 server: GlowMC
 total_decisions: 2
 decisions:
@@ -15,15 +15,14 @@ decisions:
   action: tempmute
   mute_duration: 10 phút
   executor: Console
-- violation_id: viol_realtime_1784563422752_83ce0fe4
+- violation_id: viol_realtime_1784563587772_36fe56f5
   tier: realtime
-  player: Hiyo41
-  uuid: 78fe08ff-e160-34e3-bba2-05dcd23d9246
+  player: long36
+  uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
   message: ''
-  time: 1784563422751
+  time: 1784563587772
   offended_text: ''
-  reason: Chửi thề
-  precision: 1.0
+  reason: Viết từ không phù hợp
+  precision: 0.5
   threshold_used: 0.85
-  action: tempmute
-  mute_duration: 30m
+  action: ignored
