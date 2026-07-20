@@ -1,15 +1,18 @@
-last_updated: '2026_07_20_23_00_57'
+last_updated: '2026_07_20_23_01_12'
 server: GlowMC
 total_decisions: 1
 decisions:
-- violation_id: viol_realtime_1784563257783_fba92faf
+- violation_id: viol_realtime_1784563272701_ca0c6a81
   tier: realtime
-  player: .Duyredmi
-  uuid: 00000000-0000-0000-0009-01ff86779155
-  message: chi v
-  time: 1784563257783
-  offended_text: chi v
-  reason: chửi bậy
-  precision: 0.8
+  player: long36
+  uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
+  message: m
+  time: 1784563272701
+  offended_text: m
+  reason: ''
+  precision: 1.0
   threshold_used: 0.85
-  action: ignored
+  action: extended
+  mute_duration: 47m
+  additional_duration: 20m
+  remaining_before_extension_ms: 1635237
