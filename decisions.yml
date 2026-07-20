@@ -1,17 +1,17 @@
-last_updated: '2026_07_20_23_01_14'
+last_updated: '2026_07_20_23_01_43'
 server: GlowMC
 total_decisions: 1
 decisions:
-- violation_id: manual_1784563274047_5e3ab920
+- violation_id: manual_1784563303279_c63dd570
   tier: manual
-  player: long36
-  uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
+  player: .Duyredmi
+  uuid: 00000000-0000-0000-0009-01ff86779155
   message: ''
-  time: 1784563274047
+  time: 1784563303279
   offended_text: ''
-  reason: '[HiyoFilter] (extended)'
+  reason: '[HiyoFilter] Từ ngữ có thể được coi là chửi bậy'
   precision: 1.0
   threshold_used: 1.0
   action: tempmute
-  mute_duration: 47 phút
+  mute_duration: 10 phút
   executor: Console
