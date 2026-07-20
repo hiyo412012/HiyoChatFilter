@@ -1,15 +1,18 @@
-last_updated: '2026_07_20_22_59_27'
+last_updated: '2026_07_20_22_59_57'
 server: GlowMC
 total_decisions: 1
 decisions:
-- violation_id: viol_realtime_1784563167885_c9a64251
+- violation_id: viol_realtime_1784563197693_197b2d69
   tier: realtime
   player: long36
   uuid: ca51c6dc-d409-3f84-88a3-2ce202a3cad4
   message: mace
-  time: 1784563167885
+  time: 1784563197693
   offended_text: mace
-  reason: Chửi bậy
-  precision: 0.7
+  reason: chửi
+  precision: 0.95
   threshold_used: 0.85
-  action: ignored
+  action: extended
+  mute_duration: 13m
+  additional_duration: 10m
+  remaining_before_extension_ms: 210245
